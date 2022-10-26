@@ -8,33 +8,33 @@
   
  ![Screenshot (27)](https://user-images.githubusercontent.com/115714443/198032741-0dd6ddf5-0770-47bd-a179-6d0e50fbfdd0.png)
  
-## Latihan Python 1
+#### Latihan Python 1
  - Menampilkan tulisan "Hello" 
  
- print("Hello")
+ print ("Hello")
  
- print("Saya sedang belajar Pyhton")*
+ print ("Saya sedang belajar Pyhton")*
 
 ![Screenshot (28)](https://user-images.githubusercontent.com/115714443/198034386-dfa92b13-0745-499b-bbfe-75349a01bc8d.png)
 
-## Latihan Python 2
+#### Latihan Python 2
 - buatlah perintah Menjumlahkan dua buah bilangan variabel a dan b
  
   a=8
   
   b=6
   
-  print("variable a=",a
+  print ("variable a=",a
   
-  print("variable a=",b)
+  print ("variable a=",b)
   
-  print("hasil penjumlahan a+b=",a+b)
+  print ("hasil penjumlahan a+b=",a+b)
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/115714443/198036566-caa1e433-5e53-4bb4-9e8f-514b74438cab.png)
 
-##Latihan Python 3
--Menggunakan IDLE
--Buat file baru Latihan 3 memasukan nilai Penggabungan, Penjumlahan, dan Pembagian dari nilai a= 7 dan b=8
+#### Latihan Python 3
+- Menggunakan IDLE
+- Buat file baru Latihan 3 memasukan nilai Penggabungan, Penjumlahan, dan Pembagian dari nilai a= 7 dan b=8
 
 #Input nilai variabel
 
@@ -52,7 +52,7 @@ print("Variabel b=",b)
 
 print("Hasil Penggabungan {1}&{0}=".format(a,b) + str(a+b))
 
-## Konversi nilai variabel
+#### Konversi nilai variabel
 
 a=int(a)
 
